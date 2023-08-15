@@ -1,0 +1,3 @@
+disallowed_resources:
+- "aws:rds_instance:"
+- "aws:ec2_instance:"
